@@ -1,0 +1,1 @@
+Để sử dụng chương trình, bạn cần tạo một tệp văn bản có tên "sample.txt" và điền nội dung vào đó. Sau đó, bạn có thể biên dịch và chạy chương trình để hiển thị các từ có độ dài lớn nhất trong tệp "sample.txt".
